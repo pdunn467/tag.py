@@ -19,10 +19,10 @@ tag.py reset - This will wipe the tags database
 
 ### Future 
 
-*Replace option
-*Ansible Module
-*Ask where to store the DB
-*Allow deletion of more than 1 tag at a time
+* Replace option
+* Ansible Module
+* Ask where to store the DB
+* Allow deletion of more than 1 tag at a time
 
 ### Credit
 
